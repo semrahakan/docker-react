@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Practicing docker, tarvis cli and aws!
         </a>
       </header>
     </div>
